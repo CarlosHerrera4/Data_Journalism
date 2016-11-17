@@ -1,0 +1,3544 @@
+var viajeros = [
+ {
+   "APELLIDO 1": "ABAIGAR",
+   "APELLIDO 2": "SANTOS",
+   "NOMBRE": "AMAYA",
+   "NUMTRANS": 525241,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL DE CULTURA, DEPORTES Y TURISMO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "AGUILAR",
+   "APELLIDO 2": "ALMANSA",
+   "NOMBRE": "MARIA PILAR",
+   "NUMTRANS": 516253,
+   "PUESTO": "DIRECTOR/A OFICINA",
+   "NOMBRE UNIDAD ADSCRIPCION": "OFICINA DEL SECRETARIO DE LA JUNTA DE GOBIERNO Y RELACIONES CON EL PLENO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PORTAVOZ, COORDINACION DE LA JUNTA DE GOBIERNO Y RELACIONES CON EL PLENO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "AGUINAGA",
+   "APELLIDO 2": "MARTINEZ",
+   "NOMBRE": "MIGUEL",
+   "NUMTRANS": 57501,
+   "PUESTO": "INTERVENTOR/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "INTERVENCION GENERAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "ALVAREZ",
+   "APELLIDO 2": "GARCIA",
+   "NOMBRE": "ALMUDENA",
+   "NUMTRANS": 205543,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE ARGANZUELA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE ARGANZUELA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "ARCA",
+   "APELLIDO 2": "PEREZ",
+   "NOMBRE": "MARTA",
+   "NUMTRANS": 230634,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE VICALVARO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE VICALVARO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "ARCE",
+   "APELLIDO 2": "LEGUA",
+   "NOMBRE": "ROMMY",
+   "NUMTRANS": 516203,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD ARGANZUELA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE ARGANZUELA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "ARCE",
+   "APELLIDO 2": "LEGUA",
+   "NOMBRE": "ROMMY",
+   "NUMTRANS": 516203,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD USERA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE USERA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "ARRIBAS",
+   "APELLIDO 2": "DIAZ",
+   "NOMBRE": "JESUS",
+   "NUMTRANS": 216767,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE SALAMANCA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE SALAMANCA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BAQUEDANO",
+   "APELLIDO 2": "MAESTRE",
+   "NOMBRE": "MIGUEL ANGEL",
+   "NUMTRANS": 7006,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL PARQUE TECNOLOGICO DE VALDEMINGOMEZ",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "23/05/2016",
+   "FECHA FIN VIAJE": "24/05/2016",
+   "DESTINO": "Oporto (Portugal)",
+   "MOTIVO": "Visita a la planta de tratamiento  de residuos de LIPOR",
+   "IMPORTE TRANSPORTE": "347,87",
+   "IMPORTE ALOJAMIENTO": "86,01",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BAQUEDANO",
+   "APELLIDO 2": "MAESTRE",
+   "NOMBRE": "MIGUEL ANGEL",
+   "NUMTRANS": 7007,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL PARQUE TECNOLOGICO DE VALDEMINGOMEZ",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "08/03/2016",
+   "FECHA FIN VIAJE": "08/03/2016",
+   "DESTINO": "Zaragoza",
+   "MOTIVO": "Asistencia a la Jornada \"Gesti�n de lodos de depuradora y su valorizacion energ�tica\"",
+   "IMPORTE TRANSPORTE": "167,95",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BAQUEDANO",
+   "APELLIDO 2": "MAESTRE",
+   "NOMBRE": "MIGUEL ANGEL",
+   "NUMTRANS": 7008,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL PARQUE TECNOLOGICO DE VALDEMINGOMEZ",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "04/05/2016",
+   "FECHA FIN VIAJE": "04/05/2016",
+   "DESTINO": "Barcelona",
+   "MOTIVO": "Visita al Ecoparque",
+   "IMPORTE TRANSPORTE": "194,71",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BARBERO",
+   "APELLIDO 2": "GUTIERREZ",
+   "NOMBRE": "JOSE JAVIER",
+   "NUMTRANS": 516536,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE  SALUD, SEGURIDAD,Y EMERGENCIAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE SALUD, SEGURIDAD Y EMERGENCIAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "21/01/2016",
+   "FECHA FIN VIAJE": "21/01/2016",
+   "DESTINO": "Barcelona",
+   "MOTIVO": "Asistencia al Forum espa�ol para la prevenci�n y la seguridad urbana",
+   "IMPORTE TRANSPORTE": "166,20",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BARBERO",
+   "APELLIDO 2": "GUTIERREZ",
+   "NOMBRE": "JOSE JAVIER",
+   "NUMTRANS": 516536,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE  SALUD, SEGURIDAD,Y EMERGENCIAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE SALUD, SEGURIDAD Y EMERGENCIAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "08/04/2016",
+   "FECHA FIN VIAJE": "08/04/2016",
+   "DESTINO": "Zaragoza",
+   "MOTIVO": "Asitencia al curso sobre la reinvenci�n social en la facultad de Ciencias Sociales y de trabajo de Zaragoza durante la jornada sobre  la tem�tica de \"ciudades de los derechos\", \"ciudades refugio\", \"ciudades de los cuidados\" o \"ciudades del bienestar\"",
+   "IMPORTE TRANSPORTE": "8,75",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BAUTISTA",
+   "APELLIDO 2": "CARRASCOSA",
+   "NOMBRE": "NURIA",
+   "NUMTRANS": 237413,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE GESTION DEL AGUA Y ZONAS VERDES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BELLO",
+   "APELLIDO 2": "CARRO",
+   "NOMBRE": "TOM�S",
+   "NUMTRANS": 305355,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE RETIRO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE RETIRO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BENITO",
+   "APELLIDO 2": "GONZALEZ",
+   "NOMBRE": "JUAN JOSE",
+   "NUMTRANS": 47113,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE RECURSOS HUMANOS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BERBEL",
+   "APELLIDO 2": "AGUILERA",
+   "NOMBRE": "DELIA",
+   "NUMTRANS": 166156,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE SAN BLAS CANILLEJAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE SAN BLAS CANILLEJAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BLAZQUEZ",
+   "APELLIDO 2": "ARROYO",
+   "NOMBRE": "FRANCISCO JAVIER",
+   "NUMTRANS": 70731,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE CHAMBERI",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CHAMBERI"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "BU�UEL",
+   "APELLIDO 2": "HERAS",
+   "NOMBRE": "ANA",
+   "NUMTRANS": 22673,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE IGUALDAD ENTRE MUJERES Y HOMBRES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE EQUIDAD, DERECHOS SOCIALES Y EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CALVO",
+   "APELLIDO 2": "DEL OLMO",
+   "NOMBRE": "JOSE MANUEL",
+   "NUMTRANS": 516764,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGADO AREA DE GOBIERNO DE DESARROLLO URBANO SOSTENIBLE",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE DESARROLLO URBANO SOSTENIBLE"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "31/05/2016",
+   "FECHA FIN VIAJE": "03/06/2016",
+   "DESTINO": "Berl�n",
+   "MOTIVO": "Asistencia al \"Habitat Forum Alem�n 2016\"",
+   "IMPORTE TRANSPORTE": "451,63",
+   "IMPORTE ALOJAMIENTO": "386,27",
+   "IMPORTE MANUTENCION": "205,56",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CAMARERO",
+   "APELLIDO 2": "GARCIA",
+   "NOMBRE": "MARIA TERESA",
+   "NUMTRANS": 23130,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE CHAMARTIN",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CHAMARTIN"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CARMENA",
+   "APELLIDO 2": "CASTRILLO",
+   "NOMBRE": "MANUELA",
+   "NUMTRANS": 516055,
+   "PUESTO": "ALCALDE/SA",
+   "NOMBRE UNIDAD ADSCRIPCION": "ALCALDE",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "17/01/2016",
+   "FECHA FIN VIAJE": "23/01/2016",
+   "DESTINO": "Santiago de Chile y Montevideo (Uruguay)",
+   "MOTIVO": "Asistencia a la III Cumbre Iberoamericana de Agendas Locales de G�nero \"Mujer y Ciudad\" en Santiago de Chile, y a la firma del Acuerdo de Colaboraci�n entre la ciudad de Montevideo y Madrid y la Entrega de Llaves de la Ciudad por el Intendente de Montevideo",
+   "IMPORTE TRANSPORTE": "2643,35",
+   "IMPORTE ALOJAMIENTO": "163,58",
+   "IMPORTE MANUTENCION": "31,97",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CARMENA",
+   "APELLIDO 2": "CASTRILLO",
+   "NOMBRE": "MANUELA",
+   "NUMTRANS": 516055,
+   "PUESTO": "ALCALDE/SA",
+   "NOMBRE UNIDAD ADSCRIPCION": "ALCALDE",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "17/03/2016",
+   "FECHA FIN VIAJE": "18/03/2016",
+   "DESTINO": "Gran Canaria",
+   "MOTIVO": "Participaci�n en la Ponencia \"Mujer y Nueva Pol�tica\", organizada por la Consejer�a de Igualdad del Excmo. Cabildo Insular de Gran Canaria",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CARMENA",
+   "APELLIDO 2": "CASTRILLO",
+   "NOMBRE": "MANUELA",
+   "NUMTRANS": 516055,
+   "PUESTO": "ALCALDE/SA",
+   "NOMBRE UNIDAD ADSCRIPCION": "ALCALDE",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "28/05/2016",
+   "FECHA FIN VIAJE": "29/05/2016",
+   "DESTINO": "Mil�n (Italia)",
+   "MOTIVO": "Asistencia a la UEFA Champions League 2016, competici�n entre dos clubes de f�tbol madrile�os, Real Madrid CF y el Club Atl�tico de Madrid",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CARMENA",
+   "APELLIDO 2": "CASTRILLO",
+   "NOMBRE": "MANUELA",
+   "NUMTRANS": 516055,
+   "PUESTO": "ALCALDE/SA",
+   "NOMBRE UNIDAD ADSCRIPCION": "ALCALDE",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "10/06/2016",
+   "FECHA FIN VIAJE": "15/06/2016",
+   "DESTINO": "La Paz (Bolivia)",
+   "MOTIVO": "Asistencia a la XVII Asamblea Plenaria de la Uni�n de Ciudades Capitales Iberoamericanas (UCCI)",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CARMONA",
+   "APELLIDO 2": "PASCUAL",
+   "NOMBRE": "PABLO CESAR",
+   "NUMTRANS": 516176,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD MORATALAZ",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE MORATALAZ"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CARMONA",
+   "APELLIDO 2": "PASCUAL",
+   "NOMBRE": "PABLO CESAR",
+   "NUMTRANS": 516176,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD SALAMANCA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE SALAMANCA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CARRILLO",
+   "APELLIDO 2": "CASTILLO",
+   "NOMBRE": "JOS� MAR�A",
+   "NUMTRANS": 516024,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE PROGRAMAS Y ACTIVIDADES CULTURALES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CHOCLAN",
+   "APELLIDO 2": "CAMPA�A",
+   "NOMBRE": "MARIA CARMEN",
+   "NUMTRANS": 462550,
+   "PUESTO": "VOCAL DEL TRIBUNAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "VOCALIA 3� TEAMM",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "TRIBUNAL ECONOMICO ADMINISTRATIVO MUNICIPAL"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "05/02/2016",
+   "FECHA FIN VIAJE": "05/02/2016",
+   "DESTINO": "Zaragoza",
+   "MOTIVO": "Asistencia XI Congreso de la Asociaci�n Espa�ola de Profesores de Derecho Administrativo",
+   "IMPORTE TRANSPORTE": "67,30",
+   "IMPORTE ALOJAMIENTO": "102,56",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CUELLAR",
+   "APELLIDO 2": "MARTIN",
+   "NOMBRE": "ELOY GREGORIO",
+   "NUMTRANS": 515633,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL DE COORDINACION TERRITORIAL Y ASOCIACIONES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE COORDINACION TERRITORIAL Y ASOCIACIONES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "11/02/2016",
+   "FECHA FIN VIAJE": "12/02/2016",
+   "DESTINO": "Tur�n",
+   "MOTIVO": "Participaci�n en la \"Cumbre de autoridades metropolitanas europeas\"",
+   "IMPORTE TRANSPORTE": "559,26",
+   "IMPORTE ALOJAMIENTO": "154,47",
+   "IMPORTE MANUTENCION": "69,72",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CUELLAR",
+   "APELLIDO 2": "MARTIN",
+   "NOMBRE": "ELOY GREGORIO",
+   "NUMTRANS": 515633,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL DE COORDINACION TERRITORIAL Y ASOCIACIONES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE COORDINACION TERRITORIAL Y ASOCIACIONES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "20/06/2016",
+   "FECHA FIN VIAJE": "21/06/2016",
+   "DESTINO": "La Haya",
+   "MOTIVO": "Asistir en representaci�n del Delegado del �rea de Gobierno de Coordinaci�n Territorial y Asociaciones al World Forum, The Hague 20-22 June 2016 24th Europeal Social Services Conference",
+   "IMPORTE TRANSPORTE": "813,68",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CUETO",
+   "APELLIDO 2": "ALVAREZ DE SOTOMAYOR",
+   "NOMBRE": "LUIS CARLOS",
+   "NUMTRANS": 516170,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "14/03/2016",
+   "FECHA FIN VIAJE": "16/03/2016",
+   "DESTINO": "�msterdam (Holanda)",
+   "MOTIVO": " Asistencia a la entrega al espacio cultural Medialab-Prado Madrid del Premio Princesa Margarita, de Holanda, que concede la Fundaci�n Cultural Europea (FCE)",
+   "IMPORTE TRANSPORTE": "584,99",
+   "IMPORTE ALOJAMIENTO": "299,88",
+   "IMPORTE MANUTENCION": "107,28",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CUETO",
+   "APELLIDO 2": "ALVAREZ DE SOTOMAYOR",
+   "NOMBRE": "LUIS CARLOS",
+   "NUMTRANS": 516170,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "28/03/2016",
+   "FECHA FIN VIAJE": "31/03/2016",
+   "DESTINO": "Nueva York (EEUU)",
+   "MOTIVO": " Asistencia al encuentro organizado por la Organizaci�n para la Cooperaci�n y el Desarrollo (OCDE)  en colaboraci�n con la Ford Foundation, y a una reuni�n con la Oficina para Relaciones Internacionales del Alcalde Bill di Blasio",
+   "IMPORTE TRANSPORTE": "2818,93",
+   "IMPORTE ALOJAMIENTO": "292,75",
+   "IMPORTE MANUTENCION": "193,83",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CUETO",
+   "APELLIDO 2": "ALVAREZ DE SOTOMAYOR",
+   "NOMBRE": "LUIS CARLOS",
+   "NUMTRANS": 516170,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "20/04/2016",
+   "FECHA FIN VIAJE": "21/04/2016",
+   "DESTINO": "�msterdam (Holanda)",
+   "MOTIVO": "Asistencia a la Reuni�n de Alcaldes Capitales de la UE con la Comisaria de Pol�tica Regional",
+   "IMPORTE TRANSPORTE": "402,76",
+   "IMPORTE ALOJAMIENTO": "156,31",
+   "IMPORTE MANUTENCION": "71,52",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CUETO",
+   "APELLIDO 2": "ALVAREZ DE SOTOMAYOR",
+   "NOMBRE": "LUIS CARLOS",
+   "NUMTRANS": 516170,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "27/04/2016",
+   "FECHA FIN VIAJE": "01/05/2016",
+   "DESTINO": "Delhi (India)",
+   "MOTIVO": "Asistencia a la presentaci�n internacional del evento IIFA-MADRID 2016",
+   "IMPORTE TRANSPORTE": "2607,85",
+   "IMPORTE ALOJAMIENTO": "351,60",
+   "IMPORTE MANUTENCION": "155,65",
+   "IMPORTE VARIOS": "159,50"
+},
+ {
+   "APELLIDO 1": "CUETO",
+   "APELLIDO 2": "ALVAREZ DE SOTOMAYOR",
+   "NOMBRE": "LUIS CARLOS",
+   "NUMTRANS": 516170,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "30/06/2016",
+   "FECHA FIN VIAJE": "03/07/2016",
+   "DESTINO": "Tur�n (Italia)",
+   "MOTIVO": "Asistencia a la reuni�n con miembros de la Fundaci�n Patricia Sandretto, en relaci�n con el Convenio que se est� preparando con motivo para el dep�sito de la Colecci�n de Arte perteneciente a la Fundaci�n, en Matadero Madrid",
+   "IMPORTE TRANSPORTE": "301,82",
+   "IMPORTE ALOJAMIENTO": "247,40",
+   "IMPORTE MANUTENCION": "209,16",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "CUETO",
+   "APELLIDO 2": "BARAHONA",
+   "NOMBRE": "MARIA JESUS DEL",
+   "NUMTRANS": 22752,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE PUENTE DE VALLECAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE PUENTE DE VALLECAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "DE SAN MARCOS",
+   "APELLIDO 2": "SANCHEZ",
+   "NOMBRE": "GETSEMANI",
+   "NUMTRANS": 523366,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE PROGRAMAS Y ACTIVIDADES CULTURALES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "DIAZ",
+   "APELLIDO 2": "LAZARO CARRASCO",
+   "NOMBRE": "JOSE ANTONIO",
+   "NUMTRANS": 517237,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINADOR GENERAL DE MEDIO AMBIENTE, SOSTENIBILIDAD Y MOVILIDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "08/03/2016",
+   "FECHA FIN VIAJE": "08/03/2016",
+   "DESTINO": "Zaragoza",
+   "MOTIVO": "Jornada T�cnica  ADECAGUA sobre reutilizacion de aguas.",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "26,67",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "DIAZ",
+   "APELLIDO 2": "LAZARO CARRASCO",
+   "NOMBRE": "JOSE ANTONIO",
+   "NUMTRANS": 517238,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINADOR GENERAL DE MEDIO AMBIENTE, SOSTENIBILIDAD Y MOVILIDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "04/05/2016",
+   "FECHA FIN VIAJE": "04/05/2016",
+   "DESTINO": "Barcelona",
+   "MOTIVO": "Visita a Ecoparque",
+   "IMPORTE TRANSPORTE": "169,71",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "DIAZ",
+   "APELLIDO 2": "LAZARO CARRASCO",
+   "NOMBRE": "JOSE ANTONIO",
+   "NUMTRANS": 517239,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINADOR GENERAL DE MEDIO AMBIENTE, SOSTENIBILIDAD Y MOVILIDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "03/02/2016",
+   "FECHA FIN VIAJE": "05/02/2016",
+   "DESTINO": "Valencia",
+   "MOTIVO": "Reuni�n T�cnica de Calidad del Aire Urbano, Problemas y soluciones.",
+   "IMPORTE TRANSPORTE": "134,90",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "106,68",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "DIAZ",
+   "APELLIDO 2": "MENDEZ",
+   "NOMBRE": "JOSE ANTONIO",
+   "NUMTRANS": 516634,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL PLANIFICACION Y DESARROLLO DE LA  DESCENTRALIZACION MUNPAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE COORDINACION TERRITORIAL Y ASOCIACIONES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "DIAZ DE CERIO",
+   "APELLIDO 2": "VILLAMAYOR",
+   "NOMBRE": "JOSE ANTONIO",
+   "NUMTRANS": 50116,
+   "PUESTO": "DIRECTOR/A OOAA. AGENCIA TRIBUTARIA",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCI�N OOAA. AGENCIA TRIBUTARIA MADRID",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AGENCIA TRIBUTARIA MADRID"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "DIAZ DE VILLEGAS",
+   "APELLIDO 2": "SOLANS",
+   "NOMBRE": "MARIA CONCEPCION",
+   "NUMTRANS": 63063,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE COMERCIO Y EMPRENDIMIENTO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE EQUIDAD, DERECHOS SOCIALES Y EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "DOMINGUEZ",
+   "APELLIDO 2": "LUCENA",
+   "NOMBRE": "EZEQUIEL",
+   "NUMTRANS": 250515,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL DE PLANEAMIENTO, DESARROLLO URBANO Y MOVILIDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE DESARROLLO URBANO SOSTENIBLE"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "FERNANDEZ",
+   "APELLIDO 2": "DIEZ",
+   "NOMBRE": "ESTRELLA",
+   "NUMTRANS": 3505,
+   "PUESTO": "SECRETARIO/A GENERAL T�CNICO/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "SECRETARIA GENERAL TECNICA GERENCIA DE LA CIUDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "FERNANDEZ",
+   "APELLIDO 2": "MARTINEZ",
+   "NOMBRE": "JOSE LUIS",
+   "NUMTRANS": 3530,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE FUENCARRAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE FUENCARRAL-EL PARDO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "FERNANDEZ",
+   "APELLIDO 2": "RUIZ",
+   "NOMBRE": "BEGO�A",
+   "NUMTRANS": 166175,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL CONTRATACION Y SERVICIOS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "FERN�NDEZ",
+   "APELLIDO 2": "IZQUIERDO",
+   "NOMBRE": "ANA",
+   "NUMTRANS": 327174,
+   "PUESTO": "SECRETARIO/A GENERAL T�CNICO/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "SECRETARIA GENERAL TECNICA AREA DE GOBIERNO DE CULTURA Y DEPORTES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "FERNANDEZ-PIRLA",
+   "APELLIDO 2": "MARTINEZ",
+   "NOMBRE": "MARTA",
+   "NUMTRANS": 471055,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE ECONOMIA Y SECTOR PUBLICO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "12/04/2016",
+   "FECHA FIN VIAJE": "14/04/2016",
+   "DESTINO": "Vitoria",
+   "MOTIVO": "Asistencia a una serie de reuniones con entidades de la econom�a social del  Pa�s Vasco",
+   "IMPORTE TRANSPORTE": "109,15",
+   "IMPORTE ALOJAMIENTO": "199,32",
+   "IMPORTE MANUTENCION": "80,01",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "FRIAS",
+   "APELLIDO 2": "MARTIN",
+   "NOMBRE": "MARIA SOLEDAD",
+   "NUMTRANS": 61100,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECC GRAL DE MAYORES, ATCION SOCIAL, INCLUSION SOCIAL Y ATCION A LA EMERGENCIA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE EQUIDAD, DERECHOS SOCIALES Y EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "FRUTOS",
+   "APELLIDO 2": "PAEZ",
+   "NOMBRE": "JOSE ANTONIO",
+   "NUMTRANS": 217425,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE MORATALAZ",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE MORATALAZ"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GALCERAN",
+   "APELLIDO 2": "HUGUET",
+   "NOMBRE": "MONTSERRAT",
+   "NUMTRANS": 516201,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD MONCLOA-ARAVACA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE MONCLOA-ARAVACA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GALCERAN",
+   "APELLIDO 2": "HUGUET",
+   "NOMBRE": "MONTSERRAT",
+   "NUMTRANS": 516201,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD TETUAN",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE TETUAN"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GALINDO",
+   "APELLIDO 2": "ME�O",
+   "NOMBRE": "CARLOS",
+   "NUMTRANS": 516472,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE PLANIFICACION INTERNA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GARCIA",
+   "APELLIDO 2": "CASTA�O",
+   "NOMBRE": "JORGE",
+   "NUMTRANS": 453640,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD CENTRO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CENTRO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GARCIA",
+   "APELLIDO 2": "CASTA�O",
+   "NOMBRE": "JORGE",
+   "NUMTRANS": 453640,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD CHAMBERI",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CHAMBERI"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GARCIA",
+   "APELLIDO 2": "DIAZ",
+   "NOMBRE": "MARIA BELEN",
+   "NUMTRANS": 443241,
+   "PUESTO": "GERENTE/A ORGANISMO AUT�NOMO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GERENCIA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AGENCIA PARA EL EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "15/03/2016",
+   "FECHA FIN VIAJE": "17/03/2016",
+   "DESTINO": "Nantes (Francia)",
+   "MOTIVO": "Asistencia al Eurocities Social Affairs Forum: Involving citiziens in social innivation.",
+   "IMPORTE TRANSPORTE": "479,69",
+   "IMPORTE ALOJAMIENTO": "260,04",
+   "IMPORTE MANUTENCION": "145,44",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GARCIA",
+   "APELLIDO 2": "DIAZ",
+   "NOMBRE": "MARIA BELEN",
+   "NUMTRANS": 443241,
+   "PUESTO": "GERENTE/A ORGANISMO AUT�NOMO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GERENCIA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AGENCIA PARA EL EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "26/04/2016",
+   "FECHA FIN VIAJE": "26/04/2016",
+   "DESTINO": "Valladolid",
+   "MOTIVO": "Asistencia al Foro Local por el Empleo",
+   "IMPORTE TRANSPORTE": "84,70",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "26,67",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GARCIA",
+   "APELLIDO 2": "DIAZ",
+   "NOMBRE": "MARIA BELEN",
+   "NUMTRANS": 443241,
+   "PUESTO": "GERENTE/A ORGANISMO AUT�NOMO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GERENCIA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AGENCIA PARA EL EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "05/05/2016",
+   "FECHA FIN VIAJE": "06/05/2016",
+   "DESTINO": "Sevilla",
+   "MOTIVO": "Asistencia al XVI Foro de Ciudades por el Empleo",
+   "IMPORTE TRANSPORTE": "175,80",
+   "IMPORTE ALOJAMIENTO": "88,00",
+   "IMPORTE MANUTENCION": "80,01",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GARCIA",
+   "APELLIDO 2": "FRIAS",
+   "NOMBRE": "MARIA ANGELES",
+   "NUMTRANS": 511714,
+   "PUESTO": "VOCAL DEL TRIBUNAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "VOCALIA 2� TEAMM",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "TRIBUNAL ECONOMICO ADMINISTRATIVO MUNICIPAL"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GARCIA",
+   "APELLIDO 2": "IBA�EZ",
+   "NOMBRE": "INMACULADA",
+   "NUMTRANS": 23214,
+   "PUESTO": "SECRETARIO/A GENERAL T�CNICO/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "SECRETARIA GENERAL TECNICA  A.G. SALUD, SEGURIDAD Y EMERGENCIAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE SALUD, SEGURIDAD Y EMERGENCIAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GARCIA",
+   "APELLIDO 2": "ZARZA",
+   "NOMBRE": "MARIA NURIA",
+   "NUMTRANS": 225142,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE BARAJAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE BARAJAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GOMEZ",
+   "APELLIDO 2": "GONZALEZ",
+   "NOMBRE": "PABLO",
+   "NUMTRANS": 51757,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE HACIENDA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GOMEZ",
+   "APELLIDO 2": "LAHOZ",
+   "NOMBRE": "MARTA",
+   "NUMTRANS": 516200,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD BARAJAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE BARAJAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GOMEZ",
+   "APELLIDO 2": "LAHOZ",
+   "NOMBRE": "MARTA",
+   "NUMTRANS": 516200,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD SAN BLAS CANILLEJAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE SAN BLAS CANILLEJAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GOMEZ",
+   "APELLIDO 2": "MORANTE",
+   "NOMBRE": "ESTHER",
+   "NUMTRANS": 516204,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD CARABANCHEL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CARABANCHEL"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GOMEZ",
+   "APELLIDO 2": "MORANTE",
+   "NOMBRE": "ESTHER",
+   "NUMTRANS": 516204,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD LATINA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE LATINA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GOMEZ",
+   "APELLIDO 2": "PUENTE",
+   "NOMBRE": "MARCOS",
+   "NUMTRANS": 353307,
+   "PUESTO": "PRESIDENTE/A TRIBUNAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "VOCALIA 1� TEAMM",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "TRIBUNAL ECONOMICO ADMINISTRATIVO MUNICIPAL"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "GUTIERREZ-BARQUIN",
+   "APELLIDO 2": "ASENJO",
+   "NOMBRE": "PALOMA",
+   "NUMTRANS": 2517,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE CIUDAD LINEAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CIUDAD LINEAL"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "HIGUERAS",
+   "APELLIDO 2": "GARROBO",
+   "NOMBRE": "MARTA MARIA",
+   "NUMTRANS": 516222,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE EQUIDAD, DERECHOS SOCIALES Y EMPLEO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE EQUIDAD, DERECHOS SOCIALES Y EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "INFANZON",
+   "APELLIDO 2": "PRIORE",
+   "NOMBRE": "JOSE LUIS",
+   "NUMTRANS": 134246,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DEL ESPACIO PUBLICO, OBRAS E INFRAESTRUCTURAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE DESARROLLO URBANO SOSTENIBLE"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "LASHERAS",
+   "APELLIDO 2": "MERINO",
+   "NOMBRE": "JUAN CARLOS",
+   "NUMTRANS": 22024,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE PLANEAMIENTO Y GESTION URBANISTICA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE DESARROLLO URBANO SOSTENIBLE"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "LLERA",
+   "APELLIDO 2": "CERME�O",
+   "NOMBRE": "MARIA BELEN",
+   "NUMTRANS": 515737,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE BIBLIOTECAS, ARCHIVOS Y MUSEOS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "LOPEZ",
+   "APELLIDO 2": "CARMONA",
+   "NOMBRE": "FRANCISCO JOSE",
+   "NUMTRANS": 342605,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE GESTION Y VIGILANCIA DE LA CIRCULACION",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "01/02/2016",
+   "FECHA FIN VIAJE": "02/02/2016",
+   "DESTINO": "Lisboa",
+   "MOTIVO": "Participacion en reunion del Proyecto Europe SIMON",
+   "IMPORTE TRANSPORTE": "349,12",
+   "IMPORTE ALOJAMIENTO": "93,70",
+   "IMPORTE MANUTENCION": "76,03",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "LOPEZ DE LA RIVA",
+   "APELLIDO 2": "CARRASCO",
+   "NOMBRE": "FEDERICO ANDRES",
+   "NUMTRANS": 316577,
+   "PUESTO": "SECRETARIO/A GENERAL DEL PLENO",
+   "NOMBRE UNIDAD ADSCRIPCION": "PLENO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "PLENO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MACHETTI",
+   "APELLIDO 2": "BERMEJO",
+   "NOMBRE": "JAVIER",
+   "NUMTRANS": 65210,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE MONCLOA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE MONCLOA-ARAVACA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MAESTRE",
+   "APELLIDO 2": "FERNANDEZ",
+   "NOMBRE": "RITA",
+   "NUMTRANS": 516534,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION PORTAVOZ, COORDINACION DE LA JUNTA DE GOBIERNO Y RELACI. CON EL PLENO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PORTAVOZ, COORDINACION DE LA JUNTA DE GOBIERNO Y RELACIONES CON EL PLENO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MANCEBO",
+   "APELLIDO 2": "IZCO",
+   "NOMBRE": "MARIA AMPARO",
+   "NUMTRANS": 516647,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE USERA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE USERA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MA�ES",
+   "APELLIDO 2": "MART�NEZ",
+   "NOMBRE": "EVA",
+   "NUMTRANS": 321764,
+   "PUESTO": "SECRETARIO/A GENERAL T�CNICO/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "SECRETARIA GENERAL TECNICA  AREA DE GOBIERNO DE ECONOMIA Y HACIENDA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MARTIN",
+   "APELLIDO 2": "ARAHUETES",
+   "NOMBRE": "JOSE ENRIQUE",
+   "NUMTRANS": 516210,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE RELACIONES LABORALES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MARTIN",
+   "APELLIDO 2": "DIAZ",
+   "NOMBRE": "JESUS",
+   "NUMTRANS": 64502,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE CENTRO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CENTRO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MAYER",
+   "APELLIDO 2": "DUQUE",
+   "NOMBRE": "CELIA",
+   "NUMTRANS": 516177,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE CULTURA Y DEPORTES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "14/03/2016",
+   "FECHA FIN VIAJE": "16/03/2016",
+   "DESTINO": "Amsterdam",
+   "MOTIVO": "Asistencia de la Delegada del �rea de Gobierno de Cultura y Deportes a la entrega del premio anual \"Princess Magriet Award\" otorgado por la European Cultural Foundation a Medialab-Prado",
+   "IMPORTE TRANSPORTE": "370,89",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "143,04",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MAYER",
+   "APELLIDO 2": "DUQUE",
+   "NOMBRE": "CELIA",
+   "NUMTRANS": 516177,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE CULTURA Y DEPORTES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "11/03/2016",
+   "FECHA FIN VIAJE": "18/04/2016",
+   "DESTINO": "Madrid",
+   "MOTIVO": "Desplazamientos en taxi de la Delegada del �rea de Gobierno de Cultura y Deportes para asistir a varios actos institucionales relacionados con su cargo en varias fechas, entre el 11 de marzo y el 18 de abril de 2016",
+   "IMPORTE TRANSPORTE": "88,10",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MAYER",
+   "APELLIDO 2": "DUQUE",
+   "NOMBRE": "CELIA",
+   "NUMTRANS": 516177,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE CULTURA Y DEPORTES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "18/04/2016",
+   "FECHA FIN VIAJE": "17/05/2016",
+   "DESTINO": "Madrid",
+   "MOTIVO": "Desplazamientos en taxi de la Delegada del �rea de Gobierno de Cultura y Deportes para asistir a varios actos institucionales relacionados con su cargo en varias fechas, entre el 18 de abril y el 17 de mayo de 2016",
+   "IMPORTE TRANSPORTE": "165,75",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MEDINA",
+   "APELLIDO 2": "CAMPOS",
+   "NOMBRE": "SONSOLES",
+   "NUMTRANS": 2153,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE VILLA DE VALLECAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE VILLA DE VALLECAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MENA",
+   "APELLIDO 2": "RUBIO",
+   "NOMBRE": "MARIA SOL",
+   "NUMTRANS": 70207,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE INTERVENCION EN EL PAISAJE URBANO Y EL PATRIMONIO CULTURAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MOLINA",
+   "APELLIDO 2": "FLORIDO",
+   "NOMBRE": "IGNACIO",
+   "NUMTRANS": 164533,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE ORGANIZACION, REGIMEN JURIDICO Y FORMACION",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MOLINA",
+   "APELLIDO 2": "MOLINA",
+   "NOMBRE": "MARIA PALOMA",
+   "NUMTRANS": 26126,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE VILLAVERDE",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE VILLAVERDE"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MORA",
+   "APELLIDO 2": "ARROGANTE",
+   "NOMBRE": "LUIS ALFONSO",
+   "NUMTRANS": 70451,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRTO DE HORTALEZA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE HORTALEZA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MORENO",
+   "APELLIDO 2": "LORENTE",
+   "NOMBRE": "MARIA CRISTINA",
+   "NUMTRANS": 174516,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE  PATRIMONIO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MOSCOSO DEL PRADO",
+   "APELLIDO 2": "HERRERA",
+   "NOMBRE": "JAVIER",
+   "NUMTRANS": 224761,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE TRANSPARENCIA Y ATENCION A LA CIUDADANIA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PARTICIPACION CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "05/05/2016",
+   "FECHA FIN VIAJE": "05/05/2016",
+   "DESTINO": "Elche",
+   "MOTIVO": "Asistencia constituci�n en Elche de la \"Red de Entidades Locales por la Transparencia y la Participaci�n Ciudadana de la FEMP\"",
+   "IMPORTE TRANSPORTE": "302,89",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "15,32",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MU�OZ",
+   "APELLIDO 2": "FERNANDEZ",
+   "NOMBRE": "SOLEDAD",
+   "NUMTRANS": 2111,
+   "PUESTO": "SECRETARIO/A GENERAL T�CNICO/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "SECRETARIA GENERAL TECNICA DEL AREA DE GOBIERNO DE DESARROLLO URBANO SOSTENIBLE",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE DESARROLLO URBANO SOSTENIBLE"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MURGUI",
+   "APELLIDO 2": "PARRA",
+   "NOMBRE": "IGNACIO",
+   "NUMTRANS": 516223,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE COORDINACION TERRITORIAL Y ASOCIACIONES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE COORDINACION TERRITORIAL Y ASOCIACIONES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "11/02/2016",
+   "FECHA FIN VIAJE": "12/02/2016",
+   "DESTINO": "Tur�n",
+   "MOTIVO": "Participaci�n en la \"Cumbre de autoridades metropolitanas europeas\"",
+   "IMPORTE TRANSPORTE": "453,76",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "MURGUI",
+   "APELLIDO 2": "PARRA",
+   "NOMBRE": "IGNACIO",
+   "NUMTRANS": 516223,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE RETIRO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE RETIRO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "NAHARRO",
+   "APELLIDO 2": "SERENO",
+   "NOMBRE": "FRANCISCA",
+   "NUMTRANS": 67475,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE CARABANCHEL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CARABANCHEL"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "ODRIOZOLA",
+   "APELLIDO 2": "LINO",
+   "NOMBRE": "FRANCISCO JAVIER",
+   "NUMTRANS": 515727,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE DEPORTES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE CULTURA Y DEPORTES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "ORTIZ",
+   "APELLIDO 2": "GONZALEZ",
+   "NOMBRE": "ANGEL LUIS",
+   "NUMTRANS": 521647,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "ASESORIA  JURIDICA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PABLO",
+   "APELLIDO 2": "TRABALON",
+   "NOMBRE": "JOSE LUIS",
+   "NUMTRANS": 52723,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE SAN BLAS CANILLEJAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE SAN BLAS CANILLEJAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PASCUAL",
+   "APELLIDO 2": "ECHALECU",
+   "NOMBRE": "JOS� CARLOS",
+   "NUMTRANS": 334076,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE LATINA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE LATINA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PEREZ",
+   "APELLIDO 2": "RAMOS",
+   "NOMBRE": "FRANCISCO",
+   "NUMTRANS": 516202,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD PUENTE DE VALLECAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE PUENTE DE VALLECAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PEREZ",
+   "APELLIDO 2": "RAMOS",
+   "NOMBRE": "FRANCISCO",
+   "NUMTRANS": 516202,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD VILLA DE VALLECAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE VILLA DE VALLECAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PEREZ",
+   "APELLIDO 2": "SANCHEZ",
+   "NOMBRE": "FERNANDO",
+   "NUMTRANS": 516402,
+   "PUESTO": "GERENTE/A ORGANISMO AUT�NOMO",
+   "NOMBRE UNIDAD ADSCRIPCION": "IAM GERENCIA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "INFORMATICA DEL AYUNTAMIENTO DE MADRID"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PERPI�A",
+   "APELLIDO 2": "CARRERA",
+   "NOMBRE": "ANA",
+   "NUMTRANS": 47071,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE CONTROL DE LA EDIFICACION",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE DESARROLLO URBANO SOSTENIBLE"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PLANCHUELO",
+   "APELLIDO 2": "SAINZ",
+   "NOMBRE": "GREGORIO",
+   "NUMTRANS": 516207,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL PARTICIPACION CIUDADANA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PARTICIPACION CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "17/03/2016",
+   "FECHA FIN VIAJE": "17/03/2016",
+   "DESTINO": "C�rdoba",
+   "MOTIVO": "Presentaci�n de la web de Gobierno Abierto del Ayuntamiento de Madrid (decide.madrid.es) en el Ayuntamiento de C�rdoba",
+   "IMPORTE TRANSPORTE": "127,65",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "20,65",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PLANCHUELO",
+   "APELLIDO 2": "SAINZ",
+   "NOMBRE": "GREGORIO",
+   "NUMTRANS": 516207,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL PARTICIPACION CIUDADANA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PARTICIPACION CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "05/05/2016",
+   "FECHA FIN VIAJE": "05/05/2016",
+   "DESTINO": "Elche",
+   "MOTIVO": "Asistencia constituci�n en Elche de la \"Red de Entidades Locales por la Transparencia y la Participaci�n Ciudadana de la FEMP\"",
+   "IMPORTE TRANSPORTE": "279,59",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PORTERO",
+   "APELLIDO 2": "COBE�A",
+   "NOMBRE": "MARIA MERCEDES",
+   "NUMTRANS": 26511,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL DE EQUIDAD, SERVICIOS SOCIALES, VIVIENDA Y EMPLEO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE EQUIDAD, DERECHOS SOCIALES Y EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PRIETO",
+   "APELLIDO 2": "FERNANDEZ",
+   "NOMBRE": "ANTONIO",
+   "NUMTRANS": 23652,
+   "PUESTO": "GERENTE/A ORGANISMO AUT�NOMO",
+   "NOMBRE UNIDAD ADSCRIPCION": "GERENCIA DE MADRID SALUD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "MADRID SALUD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "21/04/2016",
+   "FECHA FIN VIAJE": "22/04/2016",
+   "DESTINO": "C�rdoba",
+   "MOTIVO": "Reuni�n Red Espa�ola Ciudades Saludables (RECS) Jornada Ciudades Promoviendo Habitos Saludables",
+   "IMPORTE TRANSPORTE": "150,86",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "56,10",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "PUJANA",
+   "APELLIDO 2": "GA�EZ",
+   "NOMBRE": "NATALIA",
+   "NUMTRANS": 220641,
+   "PUESTO": "SECRETARIO/A GENERAL TEAMM",
+   "NOMBRE UNIDAD ADSCRIPCION": "SECRETAR�A GENERAL TRIBUNAL ECONOMICO ADMINISTRAT. MUNICIPAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "TRIBUNAL ECONOMICO ADMINISTRATIVO MUNICIPAL"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "RAMIREZ",
+   "APELLIDO 2": "GARCIA",
+   "NOMBRE": "IGNACIO",
+   "NUMTRANS": 164534,
+   "PUESTO": "SECRETARIO/A GENERAL T�CNICO/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "SECRETARIA GENERAL TECNICA PORTAVOZ COORDINACION DE LA J. G. Y RELACIONES PLENO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PORTAVOZ, COORDINACION DE LA JUNTA DE GOBIERNO Y RELACIONES CON EL PLENO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "REBOLLO",
+   "APELLIDO 2": "SANCHEZ",
+   "NOMBRE": "MARIA DEL CARMEN",
+   "NUMTRANS": 65104,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "INSTITUTO MUNICIPAL DEL CONSUMO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE SALUD, SEGURIDAD Y EMERGENCIAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "REGUERO",
+   "APELLIDO 2": "NAREDO",
+   "NOMBRE": "ANA",
+   "NUMTRANS": 174515,
+   "PUESTO": "GERENTE/A ORGANISMO AUT�NOMO",
+   "NOMBRE UNIDAD ADSCRIPCION": "GERENCIA AGENCIA DE ACTIVIDADES",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AGENCIA DE ACTIVIDADES"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "RODRIGUEZ",
+   "APELLIDO 2": "MARTINEZ",
+   "NOMBRE": "YOLANDA",
+   "NUMTRANS": 237604,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD CIUDAD LINEAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CIUDAD LINEAL"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "RODRIGUEZ",
+   "APELLIDO 2": "MARTINEZ",
+   "NOMBRE": "YOLANDA",
+   "NUMTRANS": 237604,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD HORTALEZA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE HORTALEZA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "RODRIGUEZ - ALARCON",
+   "APELLIDO 2": "MARTIN",
+   "NOMBRE": "LUCILA",
+   "NUMTRANS": 516060,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE MEDIOS DE COMUNICACION",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PORTAVOZ, COORDINACION DE LA JUNTA DE GOBIERNO Y RELACIONES CON EL PLENO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "22/04/2016",
+   "FECHA FIN VIAJE": "29/04/2016",
+   "DESTINO": "Delhi",
+   "MOTIVO": "Reuniones con representantes de la International India Film Academy para acordar la celebraci�n de la XVII Edici�n de los \"Oscars\" de Bollywood en Madrid",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": "202,50"
+},
+ {
+   "APELLIDO 1": "ROMAN",
+   "APELLIDO 2": "RIECHMANN",
+   "NOMBRE": "MARIA CARMEN",
+   "NUMTRANS": 517267,
+   "PUESTO": "GERENTE/A DE LA CIUDAD",
+   "NOMBRE UNIDAD ADSCRIPCION": "GERENTE DE LA CIUDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SABANES",
+   "APELLIDO 2": "NADAL",
+   "NOMBRE": "INES",
+   "NUMTRANS": 174653,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE MEDIO AMBIENTE  Y MOVILIDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "MATO",
+   "NOMBRE": "CARLOS",
+   "NUMTRANS": 516225,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE ECONOMIA Y HACIENDA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "23/01/2016",
+   "FECHA FIN VIAJE": "24/01/2016",
+   "DESTINO": "Par�s",
+   "MOTIVO": "Viaje Oficial del Delegado para asistir a las jornadas denominadas \"Por un plan B en Europa\" en las que participan representantes de diferentes paises europeos y que tienen como objetivo someter a debate nuevas pol�ticas sociales, laborales y econ�micas.",
+   "IMPORTE TRANSPORTE": "268,76",
+   "IMPORTE ALOJAMIENTO": "140,59",
+   "IMPORTE MANUTENCION": "55,80",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "MATO",
+   "NOMBRE": "CARLOS",
+   "NUMTRANS": 516226,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE ECONOMIA Y HACIENDA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "28/01/2016",
+   "FECHA FIN VIAJE": "29/01/2016",
+   "DESTINO": "Gij�n",
+   "MOTIVO": "Viaje Oficial del Delegado a Gij�n para asistir a las jornadas sobre \"cl�usulas sociales en la contrataci�n p�blica\".",
+   "IMPORTE TRANSPORTE": "339,89",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "MATO",
+   "NOMBRE": "CARLOS",
+   "NUMTRANS": 516227,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE ECONOMIA Y HACIENDA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "12/02/2016",
+   "FECHA FIN VIAJE": "12/02/2016",
+   "DESTINO": "Zaragoza",
+   "MOTIVO": "Viaje Oficial del Delegado para asistir a las jornadas de continuaci�n del proyecto denominado \"Por un plan B en Europa\" en las que participan representantes de diferentes paises europeos y que tienen como objetivo someter a debate nuevas pol�ticas sociales, laborales y econ�micas.",
+   "IMPORTE TRANSPORTE": "101,10",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "MATO",
+   "NOMBRE": "CARLOS",
+   "NUMTRANS": 516227,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE ECONOMIA Y HACIENDA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "21/04/2016",
+   "FECHA FIN VIAJE": "21/04/2016",
+   "DESTINO": "Barcelona",
+   "MOTIVO": "Viaje Oficial del Delegado para asistir al primer encuentro paneuropero \" Autoridades Locales y la Nueva Generaci�n de Tratados de libre Comercio\"",
+   "IMPORTE TRANSPORTE": "191,05",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "MATO",
+   "NOMBRE": "CARLOS",
+   "NUMTRANS": 516228,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE ECONOMIA Y HACIENDA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "03/05/2016",
+   "FECHA FIN VIAJE": "03/05/2016",
+   "DESTINO": "Barcelona",
+   "MOTIVO": "Viaje Oficial del Delegado para asistir a reuniones en el Ayuntamiento de Barcelona con el Primer Teniente de Alcalde y Directores Generales del �mbito econ�mico, con el objetivo de la coordinaci�n de actuaciones conjuntas ante la Federaci�n Espa�ola de Municipios y Provincias.",
+   "IMPORTE TRANSPORTE": "193,55",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "MATO",
+   "NOMBRE": "CARLOS",
+   "NUMTRANS": 516225,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD VICALVARO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE VICALVARO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "SANCHEZ",
+   "NOMBRE": "ROBERTO",
+   "NUMTRANS": 522144,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE INNOVACION Y PROMOCION DE LA CIUDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "23/03/2016",
+   "FECHA FIN VIAJE": "24/03/2016",
+   "DESTINO": "Par�s (Francia)",
+   "MOTIVO": "Asistencia al Congreso Hacking Par�s 2016, organizado por el Ayuntamiento de Par�s",
+   "IMPORTE TRANSPORTE": "430,47",
+   "IMPORTE ALOJAMIENTO": "136,37",
+   "IMPORTE MANUTENCION": "72,72",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "SANCHEZ",
+   "NOMBRE": "ROBERTO",
+   "NUMTRANS": 522144,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE INNOVACION Y PROMOCION DE LA CIUDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "28/03/2016",
+   "FECHA FIN VIAJE": "03/04/2016",
+   "DESTINO": "Montevideo (Uruguay)",
+   "MOTIVO": "Asistencia a la Reuni�n de Trabajo de Directores de Relaciones Internacionales y Coordinadoras UCCI de la Regi�n Cono Sur Montevideo",
+   "IMPORTE TRANSPORTE": "884,32",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "243,40",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "SANCHEZ",
+   "NOMBRE": "ROBERTO",
+   "NUMTRANS": 522144,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE INNOVACION Y PROMOCION DE LA CIUDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "20/06/2016",
+   "FECHA FIN VIAJE": "22/06/2016",
+   "DESTINO": "Londres (Inglaterra)",
+   "MOTIVO": "Asistencia al Global Cities Symposium 2016 organizado por el Global Cities Business Alliance",
+   "IMPORTE TRANSPORTE": "680,63",
+   "IMPORTE ALOJAMIENTO": "166,79",
+   "IMPORTE MANUTENCION": "137,04",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANCHEZ",
+   "APELLIDO 2": "SANCHEZ",
+   "NOMBRE": "ROBERTO",
+   "NUMTRANS": 522144,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE INNOVACION Y PROMOCION DE LA CIUDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "ALCALDIA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "28/06/2016",
+   "FECHA FIN VIAJE": "02/07/2016",
+   "DESTINO": "Shanghai (China)",
+   "MOTIVO": "Asistencia al vuelo inaugural Madrid-Shanghai, organizado por Iberia",
+   "IMPORTE TRANSPORTE": "73,45",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "232,61",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANZ",
+   "APELLIDO 2": "BERZAL",
+   "NOMBRE": "BERNARDINO",
+   "NUMTRANS": 230412,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE ECONOMIA Y SECTOR PUBLICO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "17/05/2016",
+   "FECHA FIN VIAJE": "18/05/2016",
+   "DESTINO": "Sevilla",
+   "MOTIVO": "Reuniones con representantes de la Consejer�a de Econom�a y Conocimiento de la  Junta de Andaluc�a con el fin de coordinar actuaciones en materia de econom�a social.",
+   "IMPORTE TRANSPORTE": "125,80",
+   "IMPORTE ALOJAMIENTO": "81,00",
+   "IMPORTE MANUTENCION": "53,34",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANZ",
+   "APELLIDO 2": "BERZAL",
+   "NOMBRE": "BERNARDINO",
+   "NUMTRANS": 230413,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE ECONOMIA Y SECTOR PUBLICO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "09/06/2016",
+   "FECHA FIN VIAJE": "09/06/2016",
+   "DESTINO": "Valencia",
+   "MOTIVO": "Asistencia a la Jornada de Ciudades y Emprendimiento Social, con el objetivo de hacer coincidir a los emprendedores sociales con representantes de distintas Administraciones P�blicas.",
+   "IMPORTE TRANSPORTE": "16,95",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SANZ",
+   "APELLIDO 2": "CUESTA",
+   "NOMBRE": "MARIA ROSARIO",
+   "NUMTRANS": 24634,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE FAMILIA, INFANCIA, EDUCACION Y JUVENTUD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE EQUIDAD, DERECHOS SOCIALES Y EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SARABIA",
+   "APELLIDO 2": "HERRERO",
+   "NOMBRE": "VICTOR MANUEL",
+   "NUMTRANS": 405725,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE SERVICIOS DE LIMPIEZA Y RESIDUOS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SERRANO",
+   "APELLIDO 2": "MARTIN DE VIDALES",
+   "NOMBRE": "CARLOS",
+   "NUMTRANS": 200047,
+   "PUESTO": "COORDINADOR/A DEL DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION DEL DISTRITO DE TETUAN",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE TETUAN"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SERRANO",
+   "APELLIDO 2": "SANZ",
+   "NOMBRE": "ANDRES",
+   "NUMTRANS": 13256,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE LA POLICIA MUNICIPAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE SALUD, SEGURIDAD Y EMERGENCIAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SOTO",
+   "APELLIDO 2": "BRAVO",
+   "NOMBRE": "PABLO",
+   "NUMTRANS": 516532,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE PART. CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PARTICIPACION CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "19/02/2016",
+   "FECHA FIN VIAJE": "20/02/2016",
+   "DESTINO": "Londres ",
+   "MOTIVO": "Participaci�n en el \"Second Meeting of The Hans Crescent Symposium\"",
+   "IMPORTE TRANSPORTE": "887,07",
+   "IMPORTE ALOJAMIENTO": "493,00",
+   "IMPORTE MANUTENCION": "274,05",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SOTO",
+   "APELLIDO 2": "BRAVO",
+   "NOMBRE": "PABLO",
+   "NUMTRANS": 516532,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE PART. CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PARTICIPACION CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "18/03/2016",
+   "FECHA FIN VIAJE": "21/03/2016",
+   "DESTINO": "Lausanne",
+   "MOTIVO": "Participaci�n en el encuentro con los responsables pol�ticos municipales y con expertos investigadores en democracia participativa \"Lausanne\"",
+   "IMPORTE TRANSPORTE": "728,18",
+   "IMPORTE ALOJAMIENTO": "510,00",
+   "IMPORTE MANUTENCION": "308,54",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SOTO",
+   "APELLIDO 2": "BRAVO",
+   "NOMBRE": "PABLO",
+   "NUMTRANS": 516532,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE PART. CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PARTICIPACION CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "06/04/2016",
+   "FECHA FIN VIAJE": "10/04/2016",
+   "DESTINO": "Azores",
+   "MOTIVO": "Participaci�n III Encuentro Ib�rico de Presupuestos Participativos en 2016",
+   "IMPORTE TRANSPORTE": "768,20",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "39,50",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SOTO",
+   "APELLIDO 2": "BRAVO",
+   "NOMBRE": "PABLO",
+   "NUMTRANS": 516532,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE PART. CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PARTICIPACION CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "29/05/2016",
+   "FECHA FIN VIAJE": "30/05/2016",
+   "DESTINO": "A Coru�a",
+   "MOTIVO": "Firma del protocolo entre el Ayuntamiento de Madrid y el Ayuntamiento de A Coru�a para la colaboraci�n en la puesta en marcha del modelo de participaci�n ciudadana en el municipio de A Coru�a ",
+   "IMPORTE TRANSPORTE": "485,63",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "20,00",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "SOTO",
+   "APELLIDO 2": "BRAVO",
+   "NOMBRE": "PABLO",
+   "NUMTRANS": 516532,
+   "PUESTO": "CONCEJAL/A DE GOBIERNO",
+   "NOMBRE UNIDAD ADSCRIPCION": "DELEGACION AREA DE GOBIERNO DE PART. CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE PARTICIPACION CIUDADANA, TRANSPARENCIA Y GOBIERNO ABIERTO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "10/06/2016",
+   "FECHA FIN VIAJE": "12/06/2016",
+   "DESTINO": "Par�s",
+   "MOTIVO": "Asistencia a la conferencia \"Personal democracy France 2016\"",
+   "IMPORTE TRANSPORTE": "1053,40",
+   "IMPORTE ALOJAMIENTO": "358,20",
+   "IMPORTE MANUTENCION": "177,50",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "TORRES",
+   "APELLIDO 2": "LIROLA",
+   "NOMBRE": "VIRGINIA",
+   "NUMTRANS": 23265,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL EMERGENCIAS Y PROTECCION CIVIL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE SALUD, SEGURIDAD Y EMERGENCIAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "09/06/2016",
+   "FECHA FIN VIAJE": "10/06/2016",
+   "DESTINO": "Burgos",
+   "MOTIVO": "Asistencia al \"Congreso SEMES\" celebrado en Burgos del 8 al 10 de junio de 2016",
+   "IMPORTE TRANSPORTE": "128,45",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "26,77",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "TORRES",
+   "APELLIDO 2": "LIROLA",
+   "NOMBRE": "VIRGINIA",
+   "NUMTRANS": 23265,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL EMERGENCIAS Y PROTECCION CIVIL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE SALUD, SEGURIDAD Y EMERGENCIAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "06/05/2016",
+   "FECHA FIN VIAJE": "07/05/2016",
+   "DESTINO": "Santander",
+   "MOTIVO": "Asistencia al homenaje a los cuerpos de emergencia, entidades y ciudadanos que colaboraron en la extinci�n de incendios de Santander 1941",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "55,00",
+   "IMPORTE MANUTENCION": "53,34",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "TORRES",
+   "APELLIDO 2": "LIROLA",
+   "NOMBRE": "VIRGINIA",
+   "NUMTRANS": 23265,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL EMERGENCIAS Y PROTECCION CIVIL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE SALUD, SEGURIDAD Y EMERGENCIAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "06/04/2016",
+   "FECHA FIN VIAJE": "06/04/2016",
+   "DESTINO": "Sevilla",
+   "MOTIVO": "Asistencia al \"D�a de visita de autoridades\" del Ej�rcito del Sur 2016 en representaci�n de la Jefatura de Bomberos",
+   "IMPORTE TRANSPORTE": "116,90",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "26,67",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "VALIENTE",
+   "APELLIDO 2": "CALVO",
+   "NOMBRE": "PAZ",
+   "NUMTRANS": 462444,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE SOSTENIBILIDAD Y CONTROL AMBIENTAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "VALIENTE",
+   "APELLIDO 2": "OTS",
+   "NOMBRE": "MAURICIO",
+   "NUMTRANS": 516224,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD CHAMARTIN",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE CHAMARTIN"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "VALIENTE",
+   "APELLIDO 2": "OTS",
+   "NOMBRE": "MAURICIO",
+   "NUMTRANS": 516224,
+   "PUESTO": "TERCER/A TENIENTE DE ALCALD�A",
+   "NOMBRE UNIDAD ADSCRIPCION": "PLENO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "PLENO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "03/05/2016",
+   "FECHA FIN VIAJE": "03/05/2016",
+   "DESTINO": "Barcelona",
+   "MOTIVO": "Viaje en representaci�n del Ayuntamiento de Madrid, a petici�n de la Primera Tenencia de Alcald�a, al Foro Internacional sobre acogida e integraci�n de refugiados en la UE organizado por el Ayuntamiento de Barcelona (Diplocat)",
+   "IMPORTE TRANSPORTE": "193,55",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "VALIENTE",
+   "APELLIDO 2": "OTS",
+   "NOMBRE": "MAURICIO",
+   "NUMTRANS": 516224,
+   "PUESTO": "TERCER/A TENIENTE DE ALCALD�A",
+   "NOMBRE UNIDAD ADSCRIPCION": "PLENO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "PLENO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "21/05/2016",
+   "FECHA FIN VIAJE": "24/05/2016",
+   "DESTINO": "Estambul",
+   "MOTIVO": "Viaje por delegaci�n de funciones de la Alcald�a en el Tercer Teniente de Alcalde con motivo de la asistencia a los actos organizados por la Istambul Metropolitan Municipality, en el marco de la cumbre humanitaria de la ONU, \"Mayors Focus Session Cities Response to Migration.",
+   "IMPORTE TRANSPORTE": "467,12",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "VALLCANERA",
+   "APELLIDO 2": "ZEFERINO-RODRIGUEZ",
+   "NOMBRE": "MARIA AMPARO",
+   "NUMTRANS": 16215,
+   "PUESTO": "SECRETARIO/A GENERAL T�CNICO/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "SECRETARIA GENERAL TECNICA DE EQUIDAD DERECHOS SOCIALES Y EMPLEO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE EQUIDAD, DERECHOS SOCIALES Y EMPLEO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "VAZQUEZ",
+   "APELLIDO 2": "LLORENS",
+   "NOMBRE": "DANIEL",
+   "NUMTRANS": 521743,
+   "PUESTO": "COORDINADOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "COORDINACION GENERAL DE SEGURIDAD Y EMERGENCIAS",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE SALUD, SEGURIDAD Y EMERGENCIAS"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "VICENT",
+   "APELLIDO 2": "GARCIA",
+   "NOMBRE": "JOSE MARIA",
+   "NUMTRANS": 224331,
+   "PUESTO": "SECRETARIO/A GENERAL T�CNICO/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "SECRETARIA GENERAL TECNICA  AG MEDIO AMBIENTE Y MOVILIDAD",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE MEDIO AMBIENTE Y MOVILIDAD"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "VIGO",
+   "APELLIDO 2": "MARTIN",
+   "NOMBRE": "BEATRIZ MARIA",
+   "NUMTRANS": null,
+   "PUESTO": "INTERVENTOR/A",
+   "NOMBRE UNIDAD ADSCRIPCION": "INTERVENCION GENERAL",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE ECONOMIA Y HACIENDA"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "0,00",
+   "IMPORTE ALOJAMIENTO": "0,00",
+   "IMPORTE MANUTENCION": "0,00",
+   "IMPORTE VARIOS": "0,00"
+},
+ {
+   "APELLIDO 1": "VILLACA�AS",
+   "APELLIDO 2": "BEADES",
+   "NOMBRE": "SILVIA",
+   "NUMTRANS": 13471,
+   "PUESTO": "DIRECTOR/A GENERAL",
+   "NOMBRE UNIDAD ADSCRIPCION": "DIRECCION GENERAL DE ESTRATEGIA DE REGENERACION URBANA",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "AREA DE GOBIERNO DE DESARROLLO URBANO SOSTENIBLE"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "ZAPATA",
+   "APELLIDO 2": "ROMERO",
+   "NOMBRE": "GUILLERMO",
+   "NUMTRANS": 516533,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD FUENCARRAL-EL PARDO",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE FUENCARRAL-EL PARDO"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "ZAPATA",
+   "APELLIDO 2": "ROMERO",
+   "NOMBRE": "GUILLERMO",
+   "NUMTRANS": 516533,
+   "PUESTO": "CONCEJAL/A PRESIDENTE/A DE DISTRITO",
+   "NOMBRE UNIDAD ADSCRIPCION": "CONCEJAL PRESIDENTE JMD VILLAVERDE",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": "JUNTA MUNICIPAL DEL DISTRITO DE VILLAVERDE"
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "",
+   "APELLIDO 2": "",
+   "NOMBRE": "",
+   "NUMTRANS": null,
+   "PUESTO": "",
+   "NOMBRE UNIDAD ADSCRIPCION": "",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": ""
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+},
+ {
+   "APELLIDO 1": "",
+   "APELLIDO 2": "",
+   "NOMBRE": "",
+   "NUMTRANS": null,
+   "PUESTO": "",
+   "NOMBRE UNIDAD ADSCRIPCION": "",
+   "NOMBRE AREA": {
+      "JM": {
+         "OOAA": {
+            "EP": ""
+         }
+      }
+   },
+   "FECHA INICIO VIAJE": "",
+   "FECHA FIN VIAJE": "",
+   "DESTINO": "",
+   "MOTIVO": "",
+   "IMPORTE TRANSPORTE": "",
+   "IMPORTE ALOJAMIENTO": "",
+   "IMPORTE MANUTENCION": "",
+   "IMPORTE VARIOS": ""
+}
+]
